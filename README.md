@@ -46,6 +46,15 @@ AutoIt UDF: InputBox with multiple inputs
 Func _MultiInput(ByRef $aText, $sTitle = "", $vInputStyle = -1, $iInputWidth = 200, $sButtonR = "OK", $sButtonL = "Cancel", $iReturnMode = 0)
 ```
 
+### Beispiel
+```autoit
+Global $aTexts[5] = ["**Verzeichnis**", "Benutzer", "Passwort", "", "__Information__"]
+Global $aInputSt[5] = [-1, -1, 32] ; $ES_PASSWORD = 32
+```
+
+Global $sValues = _MultiInput($aTexts, "Test", $aInputSt)
+If Not @error Then MsgBox(0, "", $sValues)
+
 ### Voraussetzungen
 
 AutoIt
