@@ -1,5 +1,5 @@
 # _MultiInput
-AutoIt UDF: InputBox with multiple inputs
+AutoIt UDF: InputBox mit variabler Anzahl an Eingabefeldern.
 
 
 ## Funktionsaufruf
@@ -64,7 +64,7 @@ AutoIt
 
 ### Installation
 
-Die UDF in das Include Verzeichnis von AutoIt kopieren.
+Als Funktion in das eigene Programm kopieren, oder als UDF in das Include Verzeichnis von AutoIt kopieren.
 
 
 ### Weiterführende Informationen
@@ -73,11 +73,13 @@ Die UDF in das Include Verzeichnis von AutoIt kopieren.
 
 ## ToDo
 
+- [ ] Default Werte
+
 ## Author
 Thorsten Willert
 
 [Homepage](http://www.thorsten-willert.de/)
 
 ## Lizenz
-Das ganze steht unter der [Apache 2.0](https://github.com/THWillert/HomeMatic_CSS/blob/master/LICENSE) Lizenz
+Das Ganze steht unter der [Apache 2.0](https://github.com/THWillert/HomeMatic_CSS/blob/master/LICENSE) Lizenz
 .
