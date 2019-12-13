@@ -46,7 +46,7 @@ AutoIt UDF: InputBox mit variabler Anzahl an Eingabefeldern.
 Func _MultiInput(ByRef $aText, $sTitle = "", $vInputStyle = -1, $iInputWidth = 200, $sButtonR = "OK", $sButtonL = "Cancel", $iReturnMode = 0)
 ```
 
-### Beispiel
+## Beispiel
 ```autoit
 Global $aTexts[5] = ["**Verzeichnis**", "Benutzer", "Passwort", "", "__Information__"]
 Global $aInputSt[5] = [-1, -1, 32] ; $ES_PASSWORD = 32
@@ -57,19 +57,19 @@ If Not @error Then MsgBox(0, "", $sValues)
 
 ![MultiInput](/images/_MultiInput.png)
 
-### Voraussetzungen
+## Voraussetzungen
 
 AutoIt
 
 
-### Installation
+## Installation
 
 Als Funktion in das eigene Programm kopieren, oder als UDF in das Include Verzeichnis von AutoIt kopieren.
 
 
-### Weiterführende Informationen
+## Weiterführende Informationen
 
-### Diskusion und Vorschläge
+## Diskusion und Vorschläge
 
 ## ToDo
 
