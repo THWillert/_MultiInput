@@ -67,9 +67,9 @@ AutoIt
 Als Funktion in das eigene Programm kopieren, oder als UDF in das Include Verzeichnis von AutoIt kopieren.
 
 
-## Weiterführende Informationen
-
 ## Diskusion und Vorschläge
+
+[autoit.de](https://autoit.de/thread/15449-multiinput-inputbox-mit-einer-variablen-anzahl-an-eingabe-feldern-v3-0/)
 
 ## ToDo
 
