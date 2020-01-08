@@ -78,8 +78,10 @@ Als Funktion in das eigene Programm kopieren, oder als UDF in das Include Verzei
 
 - [ ] Default Werte
 
-## Author
+## Authors
 Thorsten Willert
+
+M3d1c5 (support for default-text)
 
 [Homepage](http://www.thorsten-willert.de/)
 
