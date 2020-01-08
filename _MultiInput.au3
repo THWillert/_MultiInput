@@ -14,7 +14,7 @@
 ; $vInputStyle - Optional: (Default = -1) : Style for the input-controls.
 					; | single var for a global style, or
 					; | array for different styles
-; * lool at the "GUI Control Styles"
+					; * look at the "GUI Control Styles"
 ; $iInputWidth - Optional: (Default = 200) : Width of the inputs
 ; $sButtonL - Optional: (Default = "OK") : Text of the left button
 ; $sButtonR - Optional: (Default = "Cancel") : Text of the right button
