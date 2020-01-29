@@ -76,7 +76,7 @@ Als Funktion in das eigene Programm kopieren, oder als UDF in das Include Verzei
 
 ## ToDo
 
-- [ ] Default Werte
+- [x] Default Werte
 
 ## Authors
 Thorsten Willert
