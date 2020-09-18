@@ -83,7 +83,7 @@ Thorsten Willert
 
 M3d1c5 (support for default-text)
 
-[Homepage](http://www.thorsten-willert.de/)
+[Homepage](https://www.thorsten-willert.de/software/autoit/autoit-funktionen/multiinput)
 
 ## Lizenz
 Das Ganze steht unter der [Apache 2.0](https://github.com/THWillert/HomeMatic_CSS/blob/master/LICENSE) Lizenz
